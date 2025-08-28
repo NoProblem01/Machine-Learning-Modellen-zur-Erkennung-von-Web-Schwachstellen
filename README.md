@@ -1,0 +1,3 @@
+Dieses Repository enthält das Jupyter Notebook zur Bachelorarbeit „Vergleich von Machine-Learning-Modellen zur Erkennung von Web-Schwachstellen“. Ziel der Arbeit ist es, verschiedene Klassifikationsmodelle (u. a. klassische ML-Algorithmen und Large Language Models) hinsichtlich ihrer Genauigkeit und Robustheit bei der Erkennung von schädlichen bzw. benignen Eingaben, bei SQLi und XSS, zu evaluieren.
+
+Das Projekt umfasst den Aufbau der Datenpipeline, die Modell-Trainings, die Evaluierung mit gängigen Metriken (Accuracy, Precision, Recall, F1-Score, FPR) sowie einen Vergleich der Ergebnisse. Das Notebook dient als zentrale Arbeitsumgebung für die Experimente und die Dokumentation der Resultate.
